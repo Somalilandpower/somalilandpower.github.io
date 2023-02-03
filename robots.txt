@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://somalilandpower.github.io/news/sitemap.xml
