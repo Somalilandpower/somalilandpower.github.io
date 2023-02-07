@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SomalilandPower",
     "description": "",
-    "home_page_url": "https://somalilandpower.github.io/news",
-    "feed_url": "https://somalilandpower.github.io/news/feed.json",
+    "home_page_url": "https://somalilandpower.com",
+    "feed_url": "https://somalilandpower.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "SomalilandPower"
     },
     "items": [
         {
-            "id": "https://somalilandpower.github.io/news/our-static-website.html",
-            "url": "https://somalilandpower.github.io/news/our-static-website.html",
+            "id": "https://somalilandpower.com/our-static-website.html",
+            "url": "https://somalilandpower.com/our-static-website.html",
             "title": "Our Static Website",
             "summary": "Welcome to SomalilandPower Static Website.",
-            "content_html": "<h3>Welcome to SomalilandPower Static Website.</h3>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://somalilandpower.github.io/news/media/posts/1/carlos-muza-hpjSkU2UYSU-unsplash.jpg\" alt=\"\" width=\"640\" height=\"456\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://somalilandpower.github.io/news/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-xs.jpg 300w ,https://somalilandpower.github.io/news/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-sm.jpg 480w ,https://somalilandpower.github.io/news/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-md.jpg 768w\"></figure>",
+            "content_html": "<h3>Welcome to SomalilandPower Static Website.</h3>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://somalilandpower.com/media/posts/1/carlos-muza-hpjSkU2UYSU-unsplash.jpg\" alt=\"\" width=\"640\" height=\"456\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-xs.jpg 300w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-sm.jpg 480w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-md.jpg 768w\"></figure>",
             "author": {
                 "name": "SomalilandPower"
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T19:21:29+01:00",
-            "date_modified": "2023-01-25T19:21:29+01:00"
+            "date_published": "2023-01-25T20:21:29+02:00",
+            "date_modified": "2023-01-25T20:21:29+02:00"
         }
     ]
 }
