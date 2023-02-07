@@ -3,7 +3,7 @@
     <title>SomalilandPower</title>
     <link href="https://somalilandpower.com/feed.xml" rel="self" />
     <link href="https://somalilandpower.com" />
-    <updated>2023-01-25T20:21:29+02:00</updated>
+    <updated>2023-02-07T19:59:50+02:00</updated>
     <author>
         <name>SomalilandPower</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://somalilandpower.com/our-static-website.html"/>
         <id>https://somalilandpower.com/our-static-website.html</id>
 
-        <updated>2023-01-25T20:21:29+02:00</updated>
+        <updated>2023-02-07T19:59:50+02:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to SomalilandPower Static Website.
@@ -28,6 +28,7 @@
                 <h3>Welcome to SomalilandPower Static Website.</h3>
 <p> </p>
 <figure class="post__image"><img loading="lazy"  src="https://somalilandpower.com/media/posts/1/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="" width="640" height="456" sizes="(max-width: 48em) 100vw, 768px" srcset="https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-xs.jpg 300w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-sm.jpg 480w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-md.jpg 768w"></figure>
+<p> </p>
             ]]>
         </content>
     </entry>
