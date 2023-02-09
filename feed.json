@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://somalilandpower.com/about.html",
+            "url": "https://somalilandpower.com/about.html",
+            "title": "About us",
+            "summary": "We are patriots who promote the well-being of our country. We provide information about Somaliland Environmental Development for a better place for all live.",
+            "content_html": "<p>We are patriots who promote the well-being of our country. We provide information about <strong>Somaliland</strong> Environmental Development for a better place for all live.</p>",
+            "author": {
+                "name": "SomalilandPower"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-08T20:01:02+02:00",
+            "date_modified": "2023-02-09T08:51:35+02:00"
+        },
+        {
+            "id": "https://somalilandpower.com/contact.html",
+            "url": "https://somalilandpower.com/contact.html",
+            "title": "Contact us",
+            "summary": "Have any questions? We'd love to hear from you. Drop us a line through the form below Your email: Your message: Send",
+            "content_html": "<p>Have any questions? We'd love to hear from you. Drop us a line through the form below</p>\n<form action=\"https://formspree.io/f/mdoveezj\" method=\"POST\"><label> Your email: <input name=\"email\" type=\"email\"> </label> <label> Your message: <textarea name=\"message\"></textarea> </label> <!-- your other form fields go here --> <button type=\"submit\">Send</button></form>",
+            "author": {
+                "name": "SomalilandPower"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-08T19:51:25+02:00",
+            "date_modified": "2023-02-09T09:04:06+02:00"
+        },
+        {
+            "id": "https://somalilandpower.com/gallery.html",
+            "url": "https://somalilandpower.com/gallery.html",
+            "title": "Gallery",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
+            "author": {
+                "name": "SomalilandPower"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-08T19:33:25+02:00",
+            "date_modified": "2023-02-08T20:06:18+02:00"
+        },
+        {
             "id": "https://somalilandpower.com/our-static-website.html",
             "url": "https://somalilandpower.com/our-static-website.html",
             "title": "Our Static Website",

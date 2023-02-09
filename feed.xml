@@ -3,12 +3,73 @@
     <title>SomalilandPower</title>
     <link href="https://somalilandpower.com/feed.xml" rel="self" />
     <link href="https://somalilandpower.com" />
-    <updated>2023-02-07T19:59:50+02:00</updated>
+    <updated>2023-02-09T09:04:06+02:00</updated>
     <author>
         <name>SomalilandPower</name>
     </author>
     <id>https://somalilandpower.com</id>
 
+    <entry>
+        <title>About us</title>
+        <author>
+            <name>SomalilandPower</name>
+        </author>
+        <link href="https://somalilandpower.com/about.html"/>
+        <id>https://somalilandpower.com/about.html</id>
+
+        <updated>2023-02-09T08:51:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    We are patriots who promote the well-being of our country. We provide information about Somaliland Environmental Development for a better place for all live.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are patriots who promote the well-being of our country. We provide information about <strong>Somaliland</strong> Environmental Development for a better place for all live.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact us</title>
+        <author>
+            <name>SomalilandPower</name>
+        </author>
+        <link href="https://somalilandpower.com/contact.html"/>
+        <id>https://somalilandpower.com/contact.html</id>
+
+        <updated>2023-02-09T09:04:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Have any questions? We'd love to hear from you. Drop us a line through the form below Your email: Your message: Send
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Have any questions? We'd love to hear from you. Drop us a line through the form below</p>
+<form action="https://formspree.io/f/mdoveezj" method="POST"><label> Your email: <input name="email" type="email"> </label> <label> Your message: <textarea name="message"></textarea> </label> <!-- your other form fields go here --> <button type="submit">Send</button></form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>SomalilandPower</name>
+        </author>
+        <link href="https://somalilandpower.com/gallery.html"/>
+        <id>https://somalilandpower.com/gallery.html</id>
+
+        <updated>2023-02-08T20:06:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Our Static Website</title>
         <author>
