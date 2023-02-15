@@ -3,7 +3,7 @@
     <title>SomalilandPower</title>
     <link href="https://somalilandpower.com/feed.xml" rel="self" />
     <link href="https://somalilandpower.com" />
-    <updated>2023-02-09T09:04:06+02:00</updated>
+    <updated>2023-02-09T18:32:48+02:00</updated>
     <author>
         <name>SomalilandPower</name>
     </author>
@@ -58,15 +58,16 @@
         <link href="https://somalilandpower.com/gallery.html"/>
         <id>https://somalilandpower.com/gallery.html</id>
 
-        <updated>2023-02-08T20:06:18+02:00</updated>
+        <updated>2023-02-09T18:32:48+02:00</updated>
             <summary>
                 <![CDATA[
-                     
+                    https://www.tumblr.com/somalilandpower/708786149565628416
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+                <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:gnzTfzapifenzr2DwviTow/708786149565628416/v2" data-did="1e43e60dd1dfc81f343ea85c71b88fd8baae5a3d"><a href="https://www.tumblr.com/somalilandpower/708786149565628416">https://www.tumblr.com/somalilandpower/708786149565628416</a></div>
+<script async="" src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
             ]]>
         </content>
     </entry>
