@@ -6,64 +6,8 @@
     "feed_url": "https://somalilandpower.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "SomalilandPower"
+        "name": "Somalilander"
     },
     "items": [
-        {
-            "id": "https://somalilandpower.com/about.html",
-            "url": "https://somalilandpower.com/about.html",
-            "title": "About us",
-            "summary": "We are patriots who promote the well-being of our country. We provide information about Somaliland Environmental Development for a better place for all live.",
-            "content_html": "<p>We are patriots who promote the well-being of our country. We provide information about <strong>Somaliland</strong> Environmental Development for a better place for all live.</p>",
-            "author": {
-                "name": "SomalilandPower"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-02-08T20:01:02+02:00",
-            "date_modified": "2023-02-09T08:51:35+02:00"
-        },
-        {
-            "id": "https://somalilandpower.com/contact.html",
-            "url": "https://somalilandpower.com/contact.html",
-            "title": "Contact us",
-            "summary": "Have any questions? We'd love to hear from you. Drop us a line through the form below Your email: Your message: Send",
-            "content_html": "<p>Have any questions? We'd love to hear from you. Drop us a line through the form below</p>\n<form action=\"https://formspree.io/f/mdoveezj\" method=\"POST\"><label> Your email: <input name=\"email\" type=\"email\"> </label> <label> Your message: <textarea name=\"message\"></textarea> </label> <!-- your other form fields go here --> <button type=\"submit\">Send</button></form>",
-            "author": {
-                "name": "SomalilandPower"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-02-08T19:51:25+02:00",
-            "date_modified": "2023-02-09T09:04:06+02:00"
-        },
-        {
-            "id": "https://somalilandpower.com/gallery.html",
-            "url": "https://somalilandpower.com/gallery.html",
-            "title": "Gallery",
-            "summary": "https://www.tumblr.com/somalilandpower/708786149565628416",
-            "content_html": "<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/t:gnzTfzapifenzr2DwviTow/708786149565628416/v2\" data-did=\"1e43e60dd1dfc81f343ea85c71b88fd8baae5a3d\"><a href=\"https://www.tumblr.com/somalilandpower/708786149565628416\">https://www.tumblr.com/somalilandpower/708786149565628416</a></div>\n<script async=\"\" src=\"https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51\"></script>",
-            "author": {
-                "name": "SomalilandPower"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-02-08T19:33:25+02:00",
-            "date_modified": "2023-02-09T18:32:48+02:00"
-        },
-        {
-            "id": "https://somalilandpower.com/our-static-website.html",
-            "url": "https://somalilandpower.com/our-static-website.html",
-            "title": "Our Static Website",
-            "summary": "Welcome to SomalilandPower Static Website.",
-            "content_html": "<h3>Welcome to SomalilandPower Static Website.</h3>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://somalilandpower.com/media/posts/1/carlos-muza-hpjSkU2UYSU-unsplash.jpg\" alt=\"\" width=\"640\" height=\"456\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-xs.jpg 300w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-sm.jpg 480w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-md.jpg 768w\"></figure>\n<p> </p>",
-            "author": {
-                "name": "SomalilandPower"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-01-25T20:21:29+02:00",
-            "date_modified": "2023-02-07T19:59:50+02:00"
-        }
     ]
 }

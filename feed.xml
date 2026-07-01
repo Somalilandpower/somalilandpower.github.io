@@ -3,95 +3,10 @@
     <title>SomalilandPower</title>
     <link href="https://somalilandpower.com/feed.xml" rel="self" />
     <link href="https://somalilandpower.com" />
-    <updated>2023-02-09T18:32:48+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>SomalilandPower</name>
+        <name>Somalilander</name>
     </author>
     <id>https://somalilandpower.com</id>
 
-    <entry>
-        <title>About us</title>
-        <author>
-            <name>SomalilandPower</name>
-        </author>
-        <link href="https://somalilandpower.com/about.html"/>
-        <id>https://somalilandpower.com/about.html</id>
-
-        <updated>2023-02-09T08:51:35+02:00</updated>
-            <summary>
-                <![CDATA[
-                    We are patriots who promote the well-being of our country. We provide information about Somaliland Environmental Development for a better place for all live.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>We are patriots who promote the well-being of our country. We provide information about <strong>Somaliland</strong> Environmental Development for a better place for all live.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact us</title>
-        <author>
-            <name>SomalilandPower</name>
-        </author>
-        <link href="https://somalilandpower.com/contact.html"/>
-        <id>https://somalilandpower.com/contact.html</id>
-
-        <updated>2023-02-09T09:04:06+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Have any questions? We'd love to hear from you. Drop us a line through the form below Your email: Your message: Send
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Have any questions? We'd love to hear from you. Drop us a line through the form below</p>
-<form action="https://formspree.io/f/mdoveezj" method="POST"><label> Your email: <input name="email" type="email"> </label> <label> Your message: <textarea name="message"></textarea> </label> <!-- your other form fields go here --> <button type="submit">Send</button></form>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gallery</title>
-        <author>
-            <name>SomalilandPower</name>
-        </author>
-        <link href="https://somalilandpower.com/gallery.html"/>
-        <id>https://somalilandpower.com/gallery.html</id>
-
-        <updated>2023-02-09T18:32:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                    https://www.tumblr.com/somalilandpower/708786149565628416
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:gnzTfzapifenzr2DwviTow/708786149565628416/v2" data-did="1e43e60dd1dfc81f343ea85c71b88fd8baae5a3d"><a href="https://www.tumblr.com/somalilandpower/708786149565628416">https://www.tumblr.com/somalilandpower/708786149565628416</a></div>
-<script async="" src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Our Static Website</title>
-        <author>
-            <name>SomalilandPower</name>
-        </author>
-        <link href="https://somalilandpower.com/our-static-website.html"/>
-        <id>https://somalilandpower.com/our-static-website.html</id>
-
-        <updated>2023-02-07T19:59:50+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Welcome to SomalilandPower Static Website.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>Welcome to SomalilandPower Static Website.</h3>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://somalilandpower.com/media/posts/1/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="" width="640" height="456" sizes="(max-width: 48em) 100vw, 768px" srcset="https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-xs.jpg 300w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-sm.jpg 480w ,https://somalilandpower.com/media/posts/1/responsive/carlos-muza-hpjSkU2UYSU-unsplash-md.jpg 768w"></figure>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
